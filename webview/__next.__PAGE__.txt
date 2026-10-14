@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/buildTest/webview/_next/static/chunks/05-c3ty_6dwfk.js","/buildTest/webview/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"app-shell flex items-center justify-center px-5 py-12","children":["$","section",null,{"aria-labelledby":"home-title","className":"max-w-md space-y-4 text-center","children":[["$","p",null,{"className":"text-xs font-semibold tracking-widest text-muted-foreground","children":"THE LOUNGE"}],["$","h1",null,{"id":"home-title","className":"text-3xl font-bold","children":"더라운지"}],["$","p",null,{"className":"text-sm leading-6 text-muted-foreground","children":"서비스를 준비하고 있습니다."}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Y3klAKIW-ASfaVwIQ2Pfe"}
+4:null
